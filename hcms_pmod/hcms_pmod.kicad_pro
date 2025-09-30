@@ -485,7 +485,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../hcms_pmod_gerber/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
